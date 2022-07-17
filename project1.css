@@ -1,0 +1,51 @@
+.row{
+    display: flex;
+    flex-wrap: wrap;
+    flex: 50%;
+}
+
+.col-2{
+    
+    margin-top: 120px;
+    margin-left: 200px;
+    padding: 50px;
+}
+.col-2 a{
+    padding: 5px;
+    border: 1px solid;
+    border-radius: 25px;
+    text-decoration: none;
+}
+.img img{
+    margin-left:40%;
+}
+h3{
+    text-align: center;
+    margin-top: 20px;
+    padding: 10px;
+
+}
+#OUR-WORK img{
+    margin: 60px;
+    margin-left: 200px;
+    
+}
+#OUR-WORK h3{
+    text-align: center;
+}
+footer{
+    margin-top: 30px;
+}
+footer h1,p{
+    margin-top: 20px;
+    text-align: center;
+}
+.container{
+    background-color: rgb(88, 101, 175);
+}
+a:hover{
+    background-color: rgb(107, 39, 170);
+}
+h1,h2,h3,p{
+    color: rgb(198, 216, 199);
+}
